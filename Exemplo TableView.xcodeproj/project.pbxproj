@@ -12,6 +12,7 @@
 		ACCC1E8F1F35486A0052901A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACCC1E8D1F35486A0052901A /* Main.storyboard */; };
 		ACCC1E911F35486A0052901A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACCC1E901F35486A0052901A /* Assets.xcassets */; };
 		ACCC1E941F35486A0052901A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACCC1E921F35486A0052901A /* LaunchScreen.storyboard */; };
+		ACCC1E9C1F354F1B0052901A /* corinthians.png in Resources */ = {isa = PBXBuildFile; fileRef = ACCC1E9B1F354F1B0052901A /* corinthians.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		ACCC1E901F35486A0052901A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ACCC1E931F35486A0052901A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ACCC1E951F35486A0052901A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACCC1E9B1F354F1B0052901A /* corinthians.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = corinthians.png; path = ../../../Downloads/ImagensTabela_Aula_de_tableView/corinthians.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				ACCC1E8D1F35486A0052901A /* Main.storyboard */,
 				ACCC1E901F35486A0052901A /* Assets.xcassets */,
 				ACCC1E921F35486A0052901A /* LaunchScreen.storyboard */,
+				ACCC1E9B1F354F1B0052901A /* corinthians.png */,
 				ACCC1E951F35486A0052901A /* Info.plist */,
 			);
 			path = "Exemplo TableView";
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ACCC1E9C1F354F1B0052901A /* corinthians.png in Resources */,
 				ACCC1E941F35486A0052901A /* LaunchScreen.storyboard in Resources */,
 				ACCC1E911F35486A0052901A /* Assets.xcassets in Resources */,
 				ACCC1E8F1F35486A0052901A /* Main.storyboard in Resources */,
